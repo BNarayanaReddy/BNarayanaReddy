@@ -15,7 +15,7 @@ I'm an Engineering student specializing in Electronics, Communication, and Machi
 
 
 
-### 💻 Tech Stack  
+### 💻 Tools and Langs.  
 <div>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFFFFF" alt="Python"/>
     <img src="https://img.shields.io/badge/Verilog-00979D?style=for-the-badge&logo=verilog&logoColor=FFFFFF" alt="Verilog"/>
