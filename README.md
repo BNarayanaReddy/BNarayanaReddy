@@ -4,7 +4,7 @@
 
 
 ### 🚀 About Me  
-I'm an Engineering student specializing in Electronics, Communication, and Machine Learning. Currently working as an intern at Meeami Technologies, where I work on real-time speaker diarization systems. I enjoy surfing the internet, learning new skills, and staying curious about cutting-edge technologies.
+I'm an Engineering student specializing in Electronics, Communication, and Machine Learning. I enjoy surfing the internet, learning new skills, and staying curious about cutting-edge technologies.
 
 
 
