@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>Hi there, <img src="https://em-content.zobj.net/thumbs/120/apple/354/waving-hand_1f44b.png" width="30px" alt="wave"> I am Lakshmi Narayana <img src="https://em-content.zobj.net/thumbs/120/apple/354/smiling-face-with-smiling-eyes_1f60a.png" width="30px" alt="smile">, from RGUKT-RK Valley, India</h1>
+    <h1> Lakshmi Narayana, from India</h1>
 
 
 
